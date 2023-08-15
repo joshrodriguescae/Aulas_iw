@@ -1,0 +1,21 @@
+p{
+    color:red
+}
+
+.um{
+    color:blue ;
+}
+.dois{
+    color:green ;
+}
+#titulo{
+    color:blueviolet ;
+    ;
+}
+h1 {
+    border-block: 5px solid red;
+  }
+  div {
+    border-block: double;
+  }
+  
